@@ -22,9 +22,9 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 061 | Poliwhirl| water | ![Poliwhirl](https://cdn.bulbagarden.net/upload/a/a9/061Poliwhirl.png)|
 | 069 | Bellsprout | Grass | ![Bellsprout](https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png)|
 | 095 | Onix | Rock | ![Onix](https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png)|
+|106| Hitmonlee | Fighting |![Hitmonlee](https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png)|
 |150| MewTwo | Psychic | ![MewTwo](https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png)|
 |151| Mew | Psychic | ![Mew](https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png)|
-|106| Hitmonlee | Fighting |![Hitmonlee](https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png)|
 |417| Pachirisu | Electric | ![Pachirisu](https://assets.pokemon.com/assets/cms2/img/pokedex/full/417.png)|
 | 491 | Darkrai | Dark | ![Darkrai](https://cdn.bulbagarden.net/upload/6/6d/491Darkrai.png)|
 | 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
