@@ -10,6 +10,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 010 | Caterpie | Grass | ![Caterpie](https://cdn.bulbagarden.net/upload/5/5d/010Caterpie.png)|
 | 011 | Metapod | Bug | ![Metapod](https://img.pokemondb.net/artwork/large/metapod.jpg)|
 | 012 | Butterfree | Bug | ![Butterfree](https://cdn.bulbagarden.net/upload/d/d1/012Butterfree.png)|
+| 030 | Nidorina | Poison | ![Nidorina](https://cdn.bulbagarden.net/upload/c/cd/030Nidorina.png)|
 | 052 | Meowth| Normal| ![Meowth](https://cdn.bulbagarden.net/upload/d/d6/052Meowth.png)|
 | 061 | Poliwhirl| water | ![Poliwhirl](https://cdn.bulbagarden.net/upload/a/a9/061Poliwhirl.png)|
 | 069 | Bellsprout | Grass | ![Bellsprout](https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png)|
