@@ -12,7 +12,8 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 012 | Butterfree | Bug | ![Butterfree](https://cdn.bulbagarden.net/upload/d/d1/012Butterfree.png)
 | 011 | Metapod | Bug | ![Metapod](https://img.pokemondb.net/artwork/large/metapod.jpg)|
 | 012 | Butterfree | Bug | ![Butterfree](https://cdn.bulbagarden.net/upload/d/d1/012Butterfree.png)|
-| 015  | Beedrill  | Poison| ![Beedrill](https://vignette.wikia.nocookie.net/pokemon/images/3/3d/Jimmy_Beedrill.png/revision/latest?cb=20160104203550)| 
+| 015 | Beedrill  | Poison| ![Beedrill](https://vignette.wikia.nocookie.net/pokemon/images/3/3d/Jimmy_Beedrill.png/revision/latest?cb=20160104203550)| 
+| 019 | Rattata | Normal| ![Rattata](https://vignette.wikia.nocookie.net/gabes-pokemon-adventures/images/2/2b/019Rattata_Dream.png/revision/latest?cb=20151206205539)|
 | 020 | Raticate | Normal | ![Raticate](https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png)|
 | 023  | Ekans     | Poison| ![Ekans](https://cdn.bulbagarden.net/upload/f/fa/023Ekans.png)|  
 | 025 | Pikachu | Electric| ![Pikachu](https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png)|
