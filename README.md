@@ -1,4 +1,4 @@
 # Pokedex
 | Serial Number | Pokemon Name | Type | Image |
 | --- |---| ---| --- |
-| 001 | Bulbasaur | Grass | ![Bulbasaur](https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png)|
+| 61 | Poliwhirl| water | ![Poliwhirl](https://cdn.bulbagarden.net/upload/a/a9/061Poliwhirl.png)|
