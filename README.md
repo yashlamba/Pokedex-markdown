@@ -9,4 +9,6 @@
 |151| Mew | Psychic | ![Mew](https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png)|
 |106| Hitmonlee | Fighting |![Hitmonlee](https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png)|
 |417| Pachirisu | Electric | ![Pachirisu](https://assets.pokemon.com/assets/cms2/img/pokedex/full/417.png)|
-
+| 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
+| 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
+| 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
