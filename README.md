@@ -15,7 +15,8 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 030 | Nidorina | Poison | ![Nidorina](https://cdn.bulbagarden.net/upload/c/cd/030Nidorina.png)|
 | 052 | Meowth| Normal| ![Meowth](https://cdn.bulbagarden.net/upload/d/d6/052Meowth.png)|
 | 061 | Poliwhirl| water | ![Poliwhirl](https://cdn.bulbagarden.net/upload/a/a9/061Poliwhirl.png)|
-| 069 | Bellsprout | Grass | ![Bellsprout](https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png)
+| 069 | Bellsprout | Grass | ![Bellsprout](https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png)|
+| 095 | Onix | Rock | ![Onix](https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png)|
 |150| MewTwo | Psychic | ![MewTwo](https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png)|
 |151| Mew | Psychic | ![Mew](https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png)|
 |106| Hitmonlee | Fighting |![Hitmonlee](https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png)|
