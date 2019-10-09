@@ -5,7 +5,8 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | --- |---| --- | --- |
 | 001 | Bulbasaur | Grass | ![Bulbasaur](https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png)|
 | 002 | Ivysaur | Grass | ![Ivysaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png)|
-|004|Charmander|Fire|![Charmander](https://miro.medium.com/max/343/1*Hxptm5gIRc3HyYXzw5nfpw.png)|
+| 003 | Venusaur | Grass | ![Venusaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png)|
+| 004 |Charmander|Fire|![Charmander](https://miro.medium.com/max/343/1*Hxptm5gIRc3HyYXzw5nfpw.png)|
 | 006 | Charizard | fire/flyinng | ![charizard](https://img.pokemondb.net/artwork/charizard.jpg)|
 | 007 | Squirtle | Water | ![Squirtle](https://img.pokemondb.net/artwork/squirtle.jpg)|
 | 010 | Caterpie | Grass | ![Caterpie](https://cdn.bulbagarden.net/upload/5/5d/010Caterpie.png)|
