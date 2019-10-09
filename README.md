@@ -485,7 +485,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+|483|Dialga|Steel/Dragon| ![Dialga](https://assets.pokemon.com/assets/cms2/img/pokedex/full/483.png)|
 |||||
 |||||
 |||||
