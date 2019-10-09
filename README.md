@@ -7,8 +7,10 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 002 | Ivysaur | Grass | ![Ivysaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png)|
 | 003 | Venusaur | Grass | ![Venusaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png)|
 | 004 |Charmander|Fire|![Charmander](https://miro.medium.com/max/343/1*Hxptm5gIRc3HyYXzw5nfpw.png)|
+| 005 | Charmeleon | Fire | ![Charmeleon](https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png)|
 | 006 | Charizard | fire/flyinng | ![charizard](https://img.pokemondb.net/artwork/charizard.jpg)|
 | 007 | Squirtle | Water | ![Squirtle](https://img.pokemondb.net/artwork/squirtle.jpg)|
+| 008 | Wartortle | Water | ![Wartortle](https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png)|
 | 010 | Caterpie | Grass | ![Caterpie](https://cdn.bulbagarden.net/upload/5/5d/010Caterpie.png)|
 | 012 | Butterfree | Bug | ![Butterfree](https://cdn.bulbagarden.net/upload/d/d1/012Butterfree.png)
 | 011 | Metapod | Bug | ![Metapod](https://img.pokemondb.net/artwork/large/metapod.jpg)|
