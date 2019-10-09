@@ -486,7 +486,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |483|Dialga|Steel/Dragon| ![Dialga](https://assets.pokemon.com/assets/cms2/img/pokedex/full/483.png)|
-|||||
+|484|Palkia|Water/Dragon|![Palkia](https://vignette.wikia.nocookie.net/omniversal-battlefield/images/1/19/Palkia_render-0.png/revision/latest?cb=20180718042935)|
 |||||
 |||||
 |||||
@@ -494,7 +494,6 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 | 491 | Darkrai | Dark | ![Darkrai](https://cdn.bulbagarden.net/upload/6/6d/491Darkrai.png)|
-|||||
 |||||
 | 493 | Arceus | Normal | ![Arceus](https://assets.pokemon.com/assets/cms2/img/pokedex/full/493.png)|
 |||||
