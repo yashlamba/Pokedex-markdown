@@ -489,7 +489,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |484|Palkia|Water/Dragon|![Palkia](https://vignette.wikia.nocookie.net/omniversal-battlefield/images/1/19/Palkia_render-0.png/revision/latest?cb=20180718042935)|
 |||||
 |||||
-|||||
+|487|Giratina|Ghost/Dragon|![Giratina](https://assets.pokemon.com/assets/cms2/img/pokedex/full/487.png)|
 |||||
 |||||
 |||||
