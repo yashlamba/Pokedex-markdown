@@ -1,6 +1,6 @@
 # Pokedex
 Implemeted for a git session - 21/09/2019 (Better idea would have been to use individual files as this ended up stacking conflicts)
-
+Add Pokemon to + 5 of it's #
 | Serial Number | Pokemon Name | Type | Image |
 | --- |---| --- | --- |
 | 001 | Bulbasaur | Grass | ![Bulbasaur](https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png)|
