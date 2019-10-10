@@ -486,17 +486,17 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |483|Dialga|Steel/Dragon| ![Dialga](https://assets.pokemon.com/assets/cms2/img/pokedex/full/483.png)|
+|484|Palkia|Water/Dragon|![Palkia](https://vignette.wikia.nocookie.net/omniversal-battlefield/images/1/19/Palkia_render-0.png/revision/latest?cb=20180718042935)|
 |||||
 |||||
-|||||
-|||||
+|487|Giratina|Ghost/Dragon|![Giratina](https://assets.pokemon.com/assets/cms2/img/pokedex/full/487.png)|
 |||||
 |||||
 |||||
 | 491 | Darkrai | Dark | ![Darkrai](https://cdn.bulbagarden.net/upload/6/6d/491Darkrai.png)|
 |||||
-|||||
 | 493 | Arceus | Normal | ![Arceus](https://assets.pokemon.com/assets/cms2/img/pokedex/full/493.png)|
+|||||
 |||||
 |||||
 |||||
@@ -794,3 +794,19 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |791|Solgaleo|Psychic/Steel|![Solgaleo](https://assets.pokemon.com/assets/cms2/img/pokedex/full/791.png)|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|807|Zeraora|Electric|![Zeraora](https://assets.pokemon.com/assets/cms2/img/pokedex/full/807.png)|
