@@ -793,6 +793,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
+|791|Solgaleo|Psychic/Steel|![Solgaleo](https://assets.pokemon.com/assets/cms2/img/pokedex/full/791.png)|
 |||||
 |||||
 |||||
