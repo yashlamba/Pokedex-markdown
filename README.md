@@ -7,7 +7,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 002 | Ivysaur | Grass | ![Ivysaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png)|
 | 003 | Venusaur | Grass | ![Venusaur](https://img.pokemondb.net/artwork/large/venusaur.jpg)|
 |004|Charmander|Fire|![Charmander](https://miro.medium.com/max/343/1*Hxptm5gIRc3HyYXzw5nfpw.png)|
-|||||
+| 005 |Charmeleon|Flame|![Charmeleon](https://img.pokemondb.net/artwork/large/charmeleon.jpg)|
 | 006 | Charizard | fire/flyinng | ![charizard](https://img.pokemondb.net/artwork/charizard.jpg)|
 | 007 | Squirtle | Water | ![Squirtle](https://img.pokemondb.net/artwork/squirtle.jpg)|
 |||||
