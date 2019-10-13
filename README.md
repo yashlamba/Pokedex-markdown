@@ -1,8 +1,6 @@
 # Pokedex (Add Pokemon to + 5 of it's #)
 Implemeted for a git session - 21/09/2019 (Better idea would have been to use individual files as this ended up stacking conflicts)
 
-Generation 1 (Kanto Region)
-
 | Serial Number | Pokemon Name | Type | Image |
 | --- |---| --- | --- |
 | 001 | Bulbasaur | Grass | ![Bulbasaur](https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png)|
@@ -25,10 +23,10 @@ Generation 1 (Kanto Region)
 | 018 |Pidgeot|Flying|![Pidgeot](https://img.pokemondb.net/artwork/large/pidgeot.jpg)|
 | 019 | Rattata | Normal| ![Rattata](https://vignette.wikia.nocookie.net/gabes-pokemon-adventures/images/2/2b/019Rattata_Dream.png/revision/latest?cb=20151206205539)|
 | 020 | Raticate | Normal | ![Raticate](https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png)|
-|||||
+| 021 | Spearow | Flying| ![Spearow](https://img.pokemondb.net/artwork/large/spearow.jpg)|
 |||||
 | 023  | Ekans     | Poison| ![Ekans](https://cdn.bulbagarden.net/upload/f/fa/023Ekans.png)|  
-|||||
+| 024 |Arbok   |Poison|![Arbok](https://img.pokemondb.net/artwork/large/arbok.jpg)  |
 | 025 | Pikachu | Electric| ![Pikachu](https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png)|
 |||||
 |||||
@@ -149,18 +147,13 @@ Generation 1 (Kanto Region)
 |||||
 |||||
 |||||
-|||||
+|145| Zapdos | Electric/Flying | ![Zapdos](https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png)|
 |146| Moltres | Fire/Flying | ![Moltres](https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png)|
 |147| Dratini | Dragon | ![Dratini](https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png)|
 |148| Dragonair | Dragon | ![Dragonair](https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png)|
 |149| Dragonite | Dragon/Flying | ![Dragonite](https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png)|
 |150| MewTwo | Psychic | ![MewTwo](https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png)|
 |151| Mew | Psychic | ![Mew](https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png)|
-
-Generation 2 (Johto Region)
-
-| Serial Number | Pokemon Name | Type | Image |
-| --- |---| --- | --- |
 |||||
 |||||
 |||||
@@ -260,11 +253,6 @@ Generation 2 (Johto Region)
 |||||
 |||||
 |||||
-
-Generation 3 (Hoenn Region)
-
-| Serial Number | Pokemon Name | Type | Image |
-| --- |---| --- | --- |
 |||||
 |||||
 |||||
@@ -400,11 +388,7 @@ Generation 3 (Hoenn Region)
 |||||
 |||||
 |||||
-
-Generation 4 (Sinoh Region)
-
-| Serial Number | Pokemon Name | Type | Image |
-| --- |---| --- | --- |
+|||||
 |||||
 |||||
 |||||
@@ -512,11 +496,6 @@ Generation 4 (Sinoh Region)
 | 491 | Darkrai | Dark | ![Darkrai](https://cdn.bulbagarden.net/upload/6/6d/491Darkrai.png)|
 |||||
 | 493 | Arceus | Normal | ![Arceus](https://assets.pokemon.com/assets/cms2/img/pokedex/full/493.png)|
-
-Generation 5 (Unnova Region)
-
-| Serial Number | Pokemon Name | Type | Image |
-| --- |---| --- | --- |
 |||||
 |||||
 |||||
@@ -673,11 +652,6 @@ Generation 5 (Unnova Region)
 |||||
 |||||
 |||||
-
-Generation 6 (Kalos Region)
-
-| Serial Number | Pokemon Name | Type | Image |
-| --- |---| --- | --- |
 |||||
 |||||
 |||||
@@ -750,11 +724,6 @@ Generation 6 (Kalos Region)
 |||||
 |||||
 |||||
-
-Generation 7 (Alola Region)
-
-| Serial Number | Pokemon Name | Type | Image |
-| --- |---| --- | --- |
 | 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
 | 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
 | 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
