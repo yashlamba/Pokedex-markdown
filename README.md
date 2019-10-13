@@ -10,8 +10,8 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 005 |Charmeleon|Flame|![Charmeleon](https://img.pokemondb.net/artwork/large/charmeleon.jpg)|
 | 006 | Charizard | fire/flyinng | ![charizard](https://img.pokemondb.net/artwork/charizard.jpg)|
 | 007 | Squirtle | Water | ![Squirtle](https://img.pokemondb.net/artwork/squirtle.jpg)|
-|||||
-|||||
+| 008 | Wartortle |Water|![Wartortle](https://img.pokemondb.net/artwork/large/wartortle.jpg)|
+| 009 | Blastoise |Water|![Blastoise](https://img.pokemondb.net/artwork/large/blastoise.jpg)|
 | 010 | Caterpie | Grass | ![Caterpie](https://cdn.bulbagarden.net/upload/5/5d/010Caterpie.png)|
 | 011 | Metapod | Bug | ![Metapod](https://img.pokemondb.net/artwork/large/metapod.jpg)|
 | 012 | Butterfree | Bug | ![Butterfree](https://cdn.bulbagarden.net/upload/d/d1/012Butterfree.png)|
