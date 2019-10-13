@@ -12,7 +12,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 007 | Squirtle | ![Water](https://vignette.wikia.nocookie.net/pokemon/images/f/f2/Type_Water.gif) | ![Squirtle](https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png)|
 | 008 | Wartortle |![Water](https://vignette.wikia.nocookie.net/pokemon/images/f/f2/Type_Water.gif)|![Wartortle](https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png)|
 | 009 | Blastoise |![Water](https://vignette.wikia.nocookie.net/pokemon/images/f/f2/Type_Water.gif)|![Blastoise](https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png)|
-| 010 | Caterpie | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/f/f2/Type_Grass.gif) | ![Caterpie](https://assets.pokemon.com/assets/cms2/img/pokedex/full/0010.png)|
+| 010 | Caterpie | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/f/f2/Type_Grass.gif) | ![Caterpie](https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png)|
 | 011 | Metapod | ![Bug](https://vignette.wikia.nocookie.net/pokemon/images/f/f2/Type_Bug.gif) | ![Metapod](https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png)|
 | 012 | Butterfree | ![Bug](https://vignette.wikia.nocookie.net/pokemon/images/f/f2/Type_Bug.gif) | ![Butterfree](https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png)|
 | 013 |Weedle|![Bug](https://vignette.wikia.nocookie.net/pokemon/images/f/f2/Type_Bug.gif)/![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/f/f2/Type_Poison.gif)|![Weedle](https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png)|
