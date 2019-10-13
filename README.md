@@ -60,7 +60,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+| 058 | Growlithe| Fire| ![Growlithe](https://img.pokemondb.net/artwork/large/growlithe.jpg)|
 |||||
 |||||
 | 061 | Poliwhirl| water | ![Poliwhirl](https://cdn.bulbagarden.net/upload/a/a9/061Poliwhirl.png)|
