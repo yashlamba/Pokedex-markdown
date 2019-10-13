@@ -1,9 +1,9 @@
 # Pokedex (Add Pokemon to + 5 of it's #)
 Implemeted for a git session - 21/09/2019 (Better idea would have been to use individual files as this ended up stacking conflicts)
 
+Generation 1 (Kanto Region)
 | Serial Number | Pokemon Name | Type | Image |
 | --- |---| --- | --- |
-Generation 1 (Kanto Region)
 | 001 | Bulbasaur | Grass | ![Bulbasaur](https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png)|
 | 002 | Ivysaur | Grass | ![Ivysaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png)|
 | 003 | Venusaur | Grass | ![Venusaur](https://img.pokemondb.net/artwork/large/venusaur.jpg)|
