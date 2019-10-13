@@ -60,7 +60,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+| 058 | Growlithe|![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif)| ![Growlithe](https://assets.pokemon.com/assets/cms2/img/pokedex/full/058.png)|
 |||||
 |||||
 | 061 | Poliwhirl| ![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif) | ![Poliwhirl](https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png)|
