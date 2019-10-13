@@ -68,7 +68,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+| 066 | Machop | ![Fighting](https://vignette.wikia.nocookie.net/pokemon/images/6/6b/Type_Fighting.gif) | ![Machop](https://img.pokemondb.net/artwork/large/machop.jpg)|
 |||||
 |||||
 | 069 | Bellsprout | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Bellsprout](https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png)|
