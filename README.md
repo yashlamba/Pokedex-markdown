@@ -157,6 +157,11 @@ Generation 1 (Kanto Region)
 |150| MewTwo | Psychic | ![MewTwo](https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png)|
 |151| Mew | Psychic | ![Mew](https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png)|
 |||||
+
+Generation 2 (Johto Region)
+
+| Serial Number | Pokemon Name | Type | Image |
+| --- |---| --- | --- |
 |||||
 |||||
 |||||
