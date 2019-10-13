@@ -1,5 +1,6 @@
 # Pokedex (Add Pokemon to + 5 of it's #)
 Implemeted for a git session - 21/09/2019 (Better idea would have been to use individual files as this ended up stacking conflicts)
+
 Generation 1 (Kanto Region)
 
 | Serial Number | Pokemon Name | Type | Image |
