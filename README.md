@@ -24,7 +24,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 019 | Rattata | Normal| ![Rattata](https://vignette.wikia.nocookie.net/gabes-pokemon-adventures/images/2/2b/019Rattata_Dream.png/revision/latest?cb=20151206205539)|
 | 020 | Raticate | Normal | ![Raticate](https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png)|
 |||||
-|||||
+| 022| Fearow|Flying|![Fearow](https://img.pokemondb.net/artwork/large/fearow.jpg)|
 | 023  | Ekans     | Poison| ![Ekans](https://cdn.bulbagarden.net/upload/f/fa/023Ekans.png)|  
 |||||
 | 025 | Pikachu | Electric| ![Pikachu](https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png)|
