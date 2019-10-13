@@ -147,11 +147,11 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
-|||||
-|||||
-|||||
-|||||
+|145| Zapdos | Electric/Flying | ![Zapdos](https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png)|
+|146| Moltres | Fire/Flying | ![Moltres](https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png)|
+|147| Dratini | Dragon | ![Dratini](https://assets.pokemon.com/assets/cms2/img/pokedex/full/147.png)|
+|148| Dragonair | Dragon | ![Dragonair](https://assets.pokemon.com/assets/cms2/img/pokedex/full/148.png)|
+|149| Dragonite | Dragon/Flying | ![Dragonite](https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png)|
 |150| MewTwo | Psychic | ![MewTwo](https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png)|
 |151| Mew | Psychic | ![Mew](https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png)|
 |||||
