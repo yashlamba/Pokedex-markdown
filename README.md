@@ -261,6 +261,11 @@ Generation 2 (Johto Region)
 |||||
 |||||
 |||||
+
+Generation 3 (Hoenn Region)
+
+| Serial Number | Pokemon Name | Type | Image |
+| --- |---| --- | --- |
 |||||
 |||||
 |||||
@@ -396,6 +401,11 @@ Generation 2 (Johto Region)
 |||||
 |||||
 |||||
+
+Generation 4 (Sinoh Region)
+
+| Serial Number | Pokemon Name | Type | Image |
+| --- |---| --- | --- |
 |||||
 |||||
 |||||
@@ -503,6 +513,11 @@ Generation 2 (Johto Region)
 | 491 | Darkrai | Dark | ![Darkrai](https://cdn.bulbagarden.net/upload/6/6d/491Darkrai.png)|
 |||||
 | 493 | Arceus | Normal | ![Arceus](https://assets.pokemon.com/assets/cms2/img/pokedex/full/493.png)|
+
+Generation 5 (Unnova Region)
+
+| Serial Number | Pokemon Name | Type | Image |
+| --- |---| --- | --- |
 |||||
 |||||
 |||||
@@ -659,6 +674,11 @@ Generation 2 (Johto Region)
 |||||
 |||||
 |||||
+
+Generation 6 (Kalos Region)
+
+| Serial Number | Pokemon Name | Type | Image |
+| --- |---| --- | --- |
 |||||
 |||||
 |||||
@@ -731,6 +751,11 @@ Generation 2 (Johto Region)
 |||||
 |||||
 |||||
+
+Generation 7 (Alola Region)
+
+| Serial Number | Pokemon Name | Type | Image |
+| --- |---| --- | --- |
 | 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
 | 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
 | 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
