@@ -26,7 +26,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 021 | Spearow | Flying| ![Spearow](https://img.pokemondb.net/artwork/large/spearow.jpg)|
 |||||
 | 023  | Ekans     | Poison| ![Ekans](https://cdn.bulbagarden.net/upload/f/fa/023Ekans.png)|  
-|||||
+| 024 |Arbok   |Poison|![Arbok](https://img.pokemondb.net/artwork/large/arbok.jpg)  |
 | 025 | Pikachu | Electric| ![Pikachu](https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png)|
 |||||
 |||||
