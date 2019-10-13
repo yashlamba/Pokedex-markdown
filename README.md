@@ -3,36 +3,36 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 
 | Serial Number | Pokemon Name | Type | Image |
 | --- |---| --- | --- |
-| 001 | Bulbasaur | Grass | ![Bulbasaur](https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png)|
+| 001 | Bulbasaur | Grass | ![Bulbasaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png)|
 | 002 | Ivysaur | Grass | ![Ivysaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png)|
-| 003 | Venusaur | Grass | ![Venusaur](https://img.pokemondb.net/artwork/large/venusaur.jpg)|
-|004|Charmander|Fire|![Charmander](https://miro.medium.com/max/343/1*Hxptm5gIRc3HyYXzw5nfpw.png)|
-| 005 |Charmeleon|Flame|![Charmeleon](https://img.pokemondb.net/artwork/large/charmeleon.jpg)|
-| 006 | Charizard | fire/flyinng | ![charizard](https://img.pokemondb.net/artwork/charizard.jpg)|
-| 007 | Squirtle | Water | ![Squirtle](https://img.pokemondb.net/artwork/squirtle.jpg)|
-| 008 | Wartortle |Water|![Wartortle](https://img.pokemondb.net/artwork/large/wartortle.jpg)|
-| 009 | Blastoise |Water|![Blastoise](https://img.pokemondb.net/artwork/large/blastoise.jpg)|
-| 010 | Caterpie | Grass | ![Caterpie](https://cdn.bulbagarden.net/upload/5/5d/010Caterpie.png)|
-| 011 | Metapod | Bug | ![Metapod](https://img.pokemondb.net/artwork/large/metapod.jpg)|
-| 012 | Butterfree | Bug | ![Butterfree](https://cdn.bulbagarden.net/upload/d/d1/012Butterfree.png)|
-| 013 |Weedle|Bug/Poison|![Weedle](https://img.pokemondb.net/artwork/large/weedle.jpg)|
-| 014 |Kakuna|Bug/Poison|![Kakuna](https://img.pokemondb.net/artwork/large/kakuna.jpg)|
-| 015 | Beedrill  | Poison| ![Beedrill](https://vignette.wikia.nocookie.net/pokemon/images/3/3d/Jimmy_Beedrill.png/revision/latest?cb=20160104203550)| 
+| 003 | Venusaur | Grass | ![Venusaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png)|
+|004|Charmander|Fire|![Charmander](https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png)|
+| 005 |Charmeleon|Flame|![Charmeleon](https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png)|
+| 006 | Charizard | fire/flyinng | ![charizard](https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png)|
+| 007 | Squirtle | Water | ![Squirtle](https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png)|
+| 008 | Wartortle |Water|![Wartortle](https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png)|
+| 009 | Blastoise |Water|![Blastoise](https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png)|
+| 010 | Caterpie | Grass | ![Caterpie](https://assets.pokemon.com/assets/cms2/img/pokedex/full/0010.png)|
+| 011 | Metapod | Bug | ![Metapod](https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png)|
+| 012 | Butterfree | Bug | ![Butterfree](https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png)|
+| 013 |Weedle|Bug/Poison|![Weedle](https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png)|
+| 014 |Kakuna|Bug/Poison|![Kakuna](https://assets.pokemon.com/assets/cms2/img/pokedex/full/014.png)|
+| 015 | Beedrill  | Poison| ![Beedrill](https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png)| 
 | 016 | Pidgey | Flying | ![Pidgey](https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png)|
-| 017 |Pidgeotto|Flying |![Pidgeotto](https://img.pokemondb.net/artwork/large/pidgeotto.jpg)|
-| 018 |Pidgeot|Flying|![Pidgeot](https://img.pokemondb.net/artwork/large/pidgeot.jpg)|
-| 019 | Rattata | Normal| ![Rattata](https://vignette.wikia.nocookie.net/gabes-pokemon-adventures/images/2/2b/019Rattata_Dream.png/revision/latest?cb=20151206205539)|
+| 017 |Pidgeotto|Flying |![Pidgeotto](https://assets.pokemon.com/assets/cms2/img/pokedex/full/017.png)|
+| 018 |Pidgeot|Flying|![Pidgeot](https://assets.pokemon.com/assets/cms2/img/pokedex/full/018.png)|
+| 019 | Rattata | Normal| ![Rattata](https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png)|
 | 020 | Raticate | Normal | ![Raticate](https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png)|
-| 021 | Spearow | Flying | ![Spearow](https://img.pokemondb.net/artwork/large/spearow.jpg)|
+| 021 | Spearow | Flying | ![Spearow](https://assets.pokemon.com/assets/cms2/img/pokedex/full/021.png)|
 | 022 | Fearow | Flying | ![Fearow](https://assets.pokemon.com/assets/cms2/img/pokedex/full/022.png)|
-| 023  | Ekans | Poison| ![Ekans](https://cdn.bulbagarden.net/upload/f/fa/023Ekans.png)|  
-| 024 |Arbok   |Poison|![Arbok](https://img.pokemondb.net/artwork/large/arbok.jpg)  |
+| 023  | Ekans | Poison| ![Ekans](https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png)|  
+| 024 |Arbok   |Poison|![Arbok](https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png)  |
 | 025 | Pikachu | Electric| ![Pikachu](https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png)|
 | 026 | Raichu | Electric| ![Raichu](https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png)|
 |||||
 |||||
 |||||
-| 030 | Nidorina | Poison | ![Nidorina](https://cdn.bulbagarden.net/upload/c/cd/030Nidorina.png)|
+| 030 | Nidorina | Poison | ![Nidorina](https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png)|
 |||||
 |||||
 |||||
@@ -54,7 +54,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-| 052 | Meowth| Normal| ![Meowth](https://cdn.bulbagarden.net/upload/d/d6/052Meowth.png)|
+| 052 | Meowth| Normal| ![Meowth](https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png)|
 |||||
 |||||
 |||||
@@ -63,7 +63,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-| 061 | Poliwhirl| water | ![Poliwhirl](https://cdn.bulbagarden.net/upload/a/a9/061Poliwhirl.png)|
+| 061 | Poliwhirl| water | ![Poliwhirl](https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png)|
 |||||
 |||||
 |||||
@@ -486,14 +486,14 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |483|Dialga|Steel/Dragon| ![Dialga](https://assets.pokemon.com/assets/cms2/img/pokedex/full/483.png)|
-|484|Palkia|Water/Dragon|![Palkia](https://vignette.wikia.nocookie.net/omniversal-battlefield/images/1/19/Palkia_render-0.png/revision/latest?cb=20180718042935)|
+|484|Palkia|Water/Dragon|![Palkia](https://assets.pokemon.com/assets/cms2/img/pokedex/full/484.png)|
 |||||
 |||||
 |487|Giratina|Ghost/Dragon|![Giratina](https://assets.pokemon.com/assets/cms2/img/pokedex/full/487.png)|
 |||||
 |||||
 |||||
-| 491 | Darkrai | Dark | ![Darkrai](https://cdn.bulbagarden.net/upload/6/6d/491Darkrai.png)|
+| 491 | Darkrai | Dark | ![Darkrai](https://assets.pokemon.com/assets/cms2/img/pokedex/full/491.png)|
 |||||
 | 493 | Arceus | Normal | ![Arceus](https://assets.pokemon.com/assets/cms2/img/pokedex/full/493.png)|
 |||||
@@ -724,12 +724,12 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-| 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
-| 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
-| 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
-| 725 | Litten | Fire | ![Litten](https://img.pokemondb.net/artwork/large/litten.jpg)|
-| 726 | Torracat | Fire | ![Torracat](https://img.pokemondb.net/artwork/torracat.jpg)|
-| 727 | Incineroar | Fire/Dark | ![Incineroar](https://img.pokemondb.net/artwork/incineroar.jpg)|
+| 722 | Rowlet | Grass/Flying | ![Rowlet](https://assets.pokemon.com/assets/cms2/img/pokedex/full/722.png)|
+| 723 | Dartrix | Grass/Flying | ![Dartrix](https://assets.pokemon.com/assets/cms2/img/pokedex/full/723.png)|
+| 724 | Decidueye | Grass/Ghost | ![Decidueye](https://assets.pokemon.com/assets/cms2/img/pokedex/full/724.png)|
+| 725 | Litten | Fire | ![Litten](https://assets.pokemon.com/assets/cms2/img/pokedex/full/725.png)|
+| 726 | Torracat | Fire | ![Torracat](https://assets.pokemon.com/assets/cms2/img/pokedex/full/726.png)|
+| 727 | Incineroar | Fire/Dark | ![Incineroar](https://assets.pokemon.com/assets/cms2/img/pokedex/full/727.png)|
 |||||
 |||||
 |||||
