@@ -29,9 +29,9 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 024 |Arbok   |![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif)|![Arbok](https://assets.pokemon.com/assets/cms2/img/pokedex/full/024.png)  |
 | 025 | Pikachu | ![Electric](https://vignette.wikia.nocookie.net/pokemon/images/a/aa/Type_Electric.gif)| ![Pikachu](https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png)|
 | 026 | Raichu | ![Electric](https://vignette.wikia.nocookie.net/pokemon/images/a/aa/Type_Electric.gif)| ![Raichu](https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png)|
-|||||
-|||||
-|||||
+| 027 | Sandshrew | ![Ground](https://vignette.wikia.nocookie.net/pokemon/images/1/1d/Type_Ground.gif)| ![Sandshrew](https://assets.pokemon.com/assets/cms2/img/pokedex/full/027.png)|
+| 028 | Sandslash | ![Ground](https://vignette.wikia.nocookie.net/pokemon/images/1/1d/Type_Ground.gif)| ![Sandslash](https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png)|
+| 029 | Nidoran | ![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) | ![Nidoran](https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png)|
 | 030 | Nidorina | ![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) | ![Nidorina](https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png)|
 |||||
 |||||
