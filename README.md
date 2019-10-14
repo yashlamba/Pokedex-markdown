@@ -1,6 +1,9 @@
 # Pokedex (Add Pokemon to + 5 of it's #)
 Implemeted for a git session - 21/09/2019 (Better idea would have been to use individual files as this ended up stacking conflicts)
 
+
+
+
 | Serial Number | Pokemon Name | Type | Image |
 | --- |---| --- | --- |
 | 001 | Bulbasaur | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Bulbasaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png)|
