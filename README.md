@@ -102,7 +102,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+|100| Voltorb | ![Electric](https://vignette.wikia.nocookie.net/pokemon/images/a/aa/Type_Electric.gif) |![Voltorb](https://assets.pokemon.com/assets/cms2/img/pokedex/full/100.png)|
 |||||
 |||||
 |||||
