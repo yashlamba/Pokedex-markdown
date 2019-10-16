@@ -7,5 +7,7 @@
 | 42 | Golbat | Flying | ![Golbat](https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png)|
 | 43 | Oddish | Grass | ![Oddish](https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png)|
 | 44 | Gloom | Grass | ![Gloom](https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png)|
+| 45 | Vileplume | Grass | ![Vileplume](https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png)|
+
 
 
