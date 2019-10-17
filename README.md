@@ -37,6 +37,9 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 43 | Oddish | Grass | ![Oddish](https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png)|
 | 44 | Gloom | Grass | ![Gloom](https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png)|
 | 45 | Vileplume | Grass | ![Vileplume](https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png)|
+| 46 | Paras | Grass | ![Grass](https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png)|
+| 47 | Parasect | Grass | ![Parasect](https://assets.pokemon.com/assets/cms2/img/pokedex/full/047.png)|
+| 48 | Venonat | Poison | ![Venonat](https://assets.pokemon.com/assets/cms2/img/pokedex/full/048.png)|
 | 051 | Dugtrio| ![Ground](https://vignette.wikia.nocookie.net/pokemon/images/1/1d/Type_Ground.gif)| ![Dugtrio](https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png)|
 | 052 | Meowth| ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif)| ![Meowth](https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png)|
 | 061 | Poliwhirl| ![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif) | ![Poliwhirl](https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png)|
