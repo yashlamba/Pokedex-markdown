@@ -11,4 +11,4 @@
 | 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
 | 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
 | 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
-
+| 725 | Parasect | Grass/bug |![Parasect](https://img.pokemondb.net/artwork/large/parasect.jpg)|
