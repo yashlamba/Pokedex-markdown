@@ -492,7 +492,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |487|Giratina|![Ghost](https://vignette.wikia.nocookie.net/pokemon/images/f/f2/Type_Ghost.gif)/![Dragon](https://vignette.wikia.nocookie.net/pokemon/images/2/26/Type_Dragon.gif)|![Giratina](https://assets.pokemon.com/assets/cms2/img/pokedex/full/487.png)|
 |||||
 |||||
-|||||
+|  490 | Manaphy | ![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif)| ![Manaphy](https://assets.pokemon.com/assets/cms2/img/pokedex/full/490.png)|
 | 491 | Darkrai | ![Dark](https://vignette.wikia.nocookie.net/pokemon/images/0/0d/Type_Dark.gif) | ![Darkrai](https://assets.pokemon.com/assets/cms2/img/pokedex/full/491.png)|
 |||||
 | 493 | Arceus | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Arceus](https://assets.pokemon.com/assets/cms2/img/pokedex/full/493.png)|
