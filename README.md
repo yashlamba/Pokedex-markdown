@@ -42,7 +42,8 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+| 040 | Wigglytuff | ![Fairy](https://vignette.wikia.nocookie.net/pokemon/images/7/74/Type_Fairy.gif) | ![Wigglytuff]
+(https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png) |
 |||||
 |||||
 |||||
