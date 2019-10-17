@@ -19,4 +19,3 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 491 | Darkrai | Dark | ![Darkrai](https://cdn.bulbagarden.net/upload/6/6d/491Darkrai.png)|
 | 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
 | 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
-| 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
