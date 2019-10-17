@@ -156,7 +156,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |151| Mew | ![Psychic](https://vignette.wikia.nocookie.net/pokemon/images/6/65/Type_Psychic.gif) | ![Mew](https://assets.pokemon.com/assets/cms2/img/pokedex/full/151.png)|
 |152| Chikorita | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Chikorita](https://assets.pokemon.com/assets/cms2/img/pokedex/full/152.png)|
 |153| Bayleef | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Bayleef](https://assets.pokemon.com/assets/cms2/img/pokedex/full/153.png)|
-|||||
+|154| Meganium | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Meganium](https://assets.pokemon.com/assets/cms2/img/pokedex/full/154.png)|
 |||||
 |||||
 |||||
