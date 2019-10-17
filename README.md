@@ -35,7 +35,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 030 | Nidorina | ![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) | ![Nidorina](https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png)|
 |||||
 |||||
-|||||
+| 033 | Nidorino | ![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) | ![Nidorino] (https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png)|
 |||||
 |||||
 |||||
