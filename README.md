@@ -498,7 +498,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 491 | Darkrai | ![Dark](https://vignette.wikia.nocookie.net/pokemon/images/0/0d/Type_Dark.gif) | ![Darkrai](https://assets.pokemon.com/assets/cms2/img/pokedex/full/491.png)|
 |||||
 | 493 | Arceus | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Arceus](https://assets.pokemon.com/assets/cms2/img/pokedex/full/493.png)|
-|||||
+| 494 | Victini |![Psychic](https://vignette.wikia.nocookie.net/pokemon/images/6/65/Type_Psychic.gif) | ![Darkrai](https://assets.pokemon.com/assets/cms2/img/pokedex/full/494.png)|
 |||||
 |||||
 |||||
