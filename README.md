@@ -33,7 +33,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 028 | Sandslash | ![Ground](https://vignette.wikia.nocookie.net/pokemon/images/1/1d/Type_Ground.gif)| ![Sandslash](https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png)|
 | 029 | Nidoran | ![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) | ![Nidoran](https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png)|
 | 030 | Nidorina | ![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) | ![Nidorina](https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png)|
-|||||
+| 031 | Nidoqueen | ![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) | ![Nidoqueen] (https://static.pokemonpets.com/images/monsters-images-300-300/2031-Shiny-Nidoqueen.png) |
 |||||
 |||||
 |||||
