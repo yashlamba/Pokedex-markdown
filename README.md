@@ -37,7 +37,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+| 035 | Clefairy | ![Fairy](https://vignette.wikia.nocookie.net/pokemon/images/7/74/Type_Fairy.gif) | ![Clefairy] (https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png) |
 |||||
 |||||
 |||||
