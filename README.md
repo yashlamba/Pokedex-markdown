@@ -422,7 +422,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |417| Pachirisu | ![Electric](https://vignette.wikia.nocookie.net/pokemon/images/a/aa/Type_Electric.gif) | ![Pachirisu](https://assets.pokemon.com/assets/cms2/img/pokedex/full/417.png)|
-|||||
+|418| Buizel | ![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif) | ![Buizel](https://assets.pokemon.com/assets/cms2/img/pokedex/full/418.png)|
 |||||
 |||||
 |||||
