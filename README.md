@@ -792,7 +792,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+|790|	Cosmoem|![Psychic](https://vignette.wikia.nocookie.net/pokemon/images/6/65/Type_Psychic.gif)|![	Cosmoem](https://assets.pokemon.com/assets/cms2/img/pokedex/full/807.png)|
 |791|Solgaleo|![Psychic](https://vignette.wikia.nocookie.net/pokemon/images/6/65/Type_Psychic.gif)/![Steel](https://vignette.wikia.nocookie.net/pokemon/images/a/ab/Type_Steel.gif)|![Solgaleo](https://assets.pokemon.com/assets/cms2/img/pokedex/full/791.png)|
 |||||
 |||||
