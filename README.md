@@ -39,7 +39,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+|037 | Vulpix |![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif)| ![Vulpix](https://img.pokemondb.net/artwork/large/vulpix.jpg)|
 |||||
 |||||
 |||||
