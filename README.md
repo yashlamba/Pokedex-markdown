@@ -40,7 +40,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+| 038 | Ninetales |![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif)|![Ninetales](https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png)|
 |||||
 |||||
 |||||
