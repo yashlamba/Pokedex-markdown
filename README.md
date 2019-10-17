@@ -3,11 +3,11 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 
 | Serial Number | Pokemon Name | Type | Image |
 | --- |---| --- | --- |
-| 001 | Bulbasaur | Grass | ![Bulbasaur](https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png)|
-| 002 | Ivysaur | Grass | ![Ivysaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png)|
+| 001 | Bulbasaur | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Bulbasaur](https://cdn.bulbagarden.net/upload/2/21/001Bulbasaur.png)|
+| 002 | Ivysaur | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Ivysaur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png)|
 | 006 | Charizard | fire/flyinng | ![charizard](https://img.pokemondb.net/artwork/charizard.jpg)|
 | 007 | Squirtle | Water | ![Squirtle](https://img.pokemondb.net/artwork/squirtle.jpg)|
-| 010 | Caterpie | Grass | ![Caterpie](https://cdn.bulbagarden.net/upload/5/5d/010Caterpie.png)|
+| 010 | Caterpie | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Caterpie](https://cdn.bulbagarden.net/upload/5/5d/010Caterpie.png)|
 | 011 | Metapod | Bug | ![Metapod](https://img.pokemondb.net/artwork/large/metapod.jpg)|
 | 012 | Butterfree | Bug | ![Butterfree](https://cdn.bulbagarden.net/upload/d/d1/012Butterfree.png)|
 | 020 | Raticate | Normal | ![Raticate](https://assets.pokemon.com/assets/cms2/img/pokedex/full/020.png)|
@@ -15,7 +15,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 030 | Nidorina | Poison | ![Nidorina](https://cdn.bulbagarden.net/upload/c/cd/030Nidorina.png)|
 | 052 | Meowth| Normal| ![Meowth](https://cdn.bulbagarden.net/upload/d/d6/052Meowth.png)|
 | 061 | Poliwhirl| water | ![Poliwhirl](https://cdn.bulbagarden.net/upload/a/a9/061Poliwhirl.png)|
-| 069 | Bellsprout | Grass | ![Bellsprout](https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png)|
+| 069 | Bellsprout | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Bellsprout](https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png)|
 | 491 | Darkrai | Dark | ![Darkrai](https://cdn.bulbagarden.net/upload/6/6d/491Darkrai.png)|
 | 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
 | 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
@@ -49,26 +49,6 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 028 | Sandslash | ![Ground](https://vignette.wikia.nocookie.net/pokemon/images/1/1d/Type_Ground.gif)| ![Sandslash](https://assets.pokemon.com/assets/cms2/img/pokedex/full/028.png)|
 | 029 | Nidoran | ![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) | ![Nidoran](https://assets.pokemon.com/assets/cms2/img/pokedex/full/029.png)|
 | 030 | Nidorina | ![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) | ![Nidorina](https://assets.pokemon.com/assets/cms2/img/pokedex/full/030.png)|
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
 | 051 | Dugtrio| ![Ground](https://vignette.wikia.nocookie.net/pokemon/images/1/1d/Type_Ground.gif)| ![Dugtrio](https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png)|
 | 052 | Meowth| ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif)| ![Meowth](https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png)|
 | 061 | Poliwhirl| ![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif) | ![Poliwhirl](https://assets.pokemon.com/assets/cms2/img/pokedex/full/061.png)|
