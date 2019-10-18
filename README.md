@@ -94,7 +94,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+| 092 | Gastly | ![Ghost](https://vignette.wikia.nocookie.net/pokemon/images/f/f2/Type_Ghost.gif) | ![Gastly] (https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png) |
 |||||
 |||||
 | 095 | Onix | ![Rock](https://vignette.wikia.nocookie.net/pokemon/images/b/b3/Type_Rock.gif) | ![Onix](https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png)|
