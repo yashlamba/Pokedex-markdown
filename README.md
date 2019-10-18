@@ -36,7 +36,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+|34 |Clefairy|![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif)|![Clefairy](https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png)|
 |||||
 |||||
 |||||
