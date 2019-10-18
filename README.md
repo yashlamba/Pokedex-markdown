@@ -39,7 +39,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+|37|Vulpix|![Ground](https://vignette.wikia.nocookie.net/pokemon/images/1/1d/Type_Ground.gif)|![Vulpix](https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png)|
 |||||
 |||||
 |||||
