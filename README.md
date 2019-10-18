@@ -95,7 +95,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+| 093 | Haunter | ![Ghost](https://vignette.wikia.nocookie.net/pokemon/images/f/f2/Type_Ghost.gif) | ![Haunter] (https://assets.pokemon.com/assets/cms2/img/pokedex/full/093.png) |
 |||||
 | 095 | Onix | ![Rock](https://vignette.wikia.nocookie.net/pokemon/images/b/b3/Type_Rock.gif) | ![Onix](https://assets.pokemon.com/assets/cms2/img/pokedex/full/095.png)|
 |||||
