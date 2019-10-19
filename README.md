@@ -574,7 +574,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+| 570 | Zorua | ![Tricky Fox](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Tricky Fox.gif) | ![Zorua](https://assets.pokemon.com/assets/cms2/img/pokedex/full/570.png)|
 |||||
 |||||
 |||||
