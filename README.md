@@ -584,7 +584,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+| Duclett | ![Water](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Water.gif) | ![Duclett](https://assets.pokemon.com/assets/cms2/img/pokedex/full/580.png)|
 |||||
 |||||
 |||||
