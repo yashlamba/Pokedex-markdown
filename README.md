@@ -564,7 +564,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+| 560 | Scrafty | ![Hoodlum](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Hoodlum.gif) | ![Scrafty](https://assets.pokemon.com/assets/cms2/img/pokedex/full/560.png)|
 |||||
 |||||
 |||||
