@@ -58,7 +58,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |154| Meganium|![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif)|![Meganium](https://assets.pokemon.com/assets/cms2/img/pokedex/full/154.png)|
 |155|Cyndaquil|![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif)|![Cyndaquil](https://assets.pokemon.com/assets/cms2/img/pokedex/full/155.png)|
 |156|Quilava|![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif)|![Quilava](https://assets.pokemon.com/assets/cms2/img/pokedex/full/156.png)|
-|||||
+|157|Typhlosion|![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif)|![Typhlosion](https://assets.pokemon.com/assets/cms2/img/pokedex/full/157.png)|
 |||||
 |||||
 |||||
