@@ -59,7 +59,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |155|Cyndaquil|![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif)|![Cyndaquil](https://assets.pokemon.com/assets/cms2/img/pokedex/full/155.png)|
 |156|Quilava|![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif)|![Quilava](https://assets.pokemon.com/assets/cms2/img/pokedex/full/156.png)|
 |157|Typhlosion|![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif)|![Typhlosion](https://assets.pokemon.com/assets/cms2/img/pokedex/full/157.png)|
-|||||
+| 158 | Totodile | ![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif) | ![Totodile](https://assets.pokemon.com/assets/cms2/img/pokedex/full/158.png)|
 |||||
 |159|Croconaw|![Water](https://www.pokemon.com/us/pokedex/?type=water)|![Croconaw](https://assets.pokemon.com/assets/cms2/img/pokedex/full/159.png)|
 |160|Feraligatr|![Water](https://www.pokemon.com/us/pokedex/?type=water)|![Feraligatr](https://assets.pokemon.com/assets/cms2/img/pokedex/full/160.png)|
