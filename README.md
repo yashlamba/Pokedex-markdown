@@ -711,6 +711,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
+|804|Naganadel|![Dragon](https://vignette.wikia.nocookie.net/pokemon/images/2/26/Type_Dragon.gif)/![Poison](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif)|![Naganadel](https://assets.pokemon.com/assets/cms2/img/pokedex/full/804.png)|
 |807|Zeraora|![Electric](https://vignette.wikia.nocookie.net/pokemon/images/a/aa/Type_Electric.gif)|![Zeraora](https://assets.pokemon.com/assets/cms2/img/pokedex/full/807.png)|
 
 Link Legends for the Pokemon types :-
