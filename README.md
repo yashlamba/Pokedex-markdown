@@ -62,7 +62,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |159|Croconaw|![Water]https://www.pokemon.com/us/pokedex/?type=water|![Croconaw]https://assets.pokemon.com/assets/cms2/img/pokedex/full/159.png|
-|||||
+|160|Feraligatr|![Water]https://www.pokemon.com/us/pokedex/?type=water|![Feraligatr]https://assets.pokemon.com/assets/cms2/img/pokedex/full/160.png|
 |||||
 |||||
 |||||
