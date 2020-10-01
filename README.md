@@ -67,7 +67,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+| 165 | Ledyba | ![Bug](https://vignette.wikia.nocookie.net/pokemon/images/6/64/Type_Bug.gif) | ![Ledyba](https://assets.pokemon.com/assets/cms2/img/pokedex/full/165.png)|
 |||||
 |||||
 |||||
