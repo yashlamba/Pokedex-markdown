@@ -711,6 +711,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
+|802|Marshadow|![Fighting](https://vignette.wikia.nocookie.net/pokemon/images/6/6b/Type_Fighting.gif)/![Ghost](https://vignette.wikia.nocookie.net/pokemon/images/f/f2/Type_Ghost.gif)|![Marshadow](https://assets.pokemon.com/assets/cms2/img/pokedex/full/802.png)|
 |807|Zeraora|![Electric](https://vignette.wikia.nocookie.net/pokemon/images/a/aa/Type_Electric.gif)|![Zeraora](https://assets.pokemon.com/assets/cms2/img/pokedex/full/807.png)|
 
 Link Legends for the Pokemon types :-
