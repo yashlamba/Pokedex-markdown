@@ -711,6 +711,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
+|801|Magearna|![Fairy](https://vignette.wikia.nocookie.net/pokemon/images/7/74/Type_Fairy.gif)/![Steel](https://vignette.wikia.nocookie.net/pokemon/images/a/ab/Type_Steel.gif)|![Magearna](https://assets.pokemon.com/assets/cms2/img/pokedex/full/801.png)|
 |807|Zeraora|![Electric](https://vignette.wikia.nocookie.net/pokemon/images/a/aa/Type_Electric.gif)|![Zeraora](https://assets.pokemon.com/assets/cms2/img/pokedex/full/807.png)|
 
 Link Legends for the Pokemon types :-
