@@ -710,6 +710,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
+|||||
 |807|Zeraora|![Electric](https://vignette.wikia.nocookie.net/pokemon/images/a/aa/Type_Electric.gif)|![Zeraora](https://assets.pokemon.com/assets/cms2/img/pokedex/full/807.png)|
 
 Link Legends for the Pokemon types :-
