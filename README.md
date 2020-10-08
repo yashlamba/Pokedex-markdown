@@ -15,3 +15,4 @@
 | 888 | Zacian | Warrior |![Zaciant](https://assets.pokemon.com/assets/cms2/img/pokedex/full/888.png)| 
 | 889 | Zamazenta | Warrior |![Zamazenta](https://assets.pokemon.com/assets/cms2/img/pokedex/full/889.png)| 
 | 890 | Eternatus | Gigantic |![Eternatus](https://assets.pokemon.com/assets/cms2/img/pokedex/full/890.png)| 
+| 891 | Kubfu | Wushu |![Kubfu](https://assets.pokemon.com/assets/cms2/img/pokedex/full/891.png)| 
