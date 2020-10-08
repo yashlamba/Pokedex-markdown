@@ -339,9 +339,25 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 726 | Torracat | ![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif) | ![Torracat](https://assets.pokemon.com/assets/cms2/img/pokedex/full/726.png)|
 | 727 | Incineroar | ![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif)/![Dark](https://vignette.wikia.nocookie.net/pokemon/images/0/0d/Type_Dark.gif) | ![Incineroar](https://assets.pokemon.com/assets/cms2/img/pokedex/full/727.png)|
 |791|Solgaleo|![Psychic](https://vignette.wikia.nocookie.net/pokemon/images/6/65/Type_Psychic.gif)/![Steel](https://vignette.wikia.nocookie.net/pokemon/images/a/ab/Type_Steel.gif)|![Solgaleo](https://assets.pokemon.com/assets/cms2/img/pokedex/full/791.png)|
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|||||
+|801|Magearna|![Fairy](https://vignette.wikia.nocookie.net/pokemon/images/7/74/Type_Fairy.gif)/![Steel](https://vignette.wikia.nocookie.net/pokemon/images/a/ab/Type_Steel.gif)|![Magearna](https://assets.pokemon.com/assets/cms2/img/pokedex/full/801.png)|
 |807|Necrozma|![Psychic](https://vignette.wikia.nocookie.net/pokemon/images/6/65/Type_Psychic.gif)|![Necrozma](https://assets.pokemon.com/assets/cms2/img/pokedex/full/800.png)|
 |807|Zeraora|![Electric](https://vignette.wikia.nocookie.net/pokemon/images/a/aa/Type_Electric.gif)|![Zeraora](https://assets.pokemon.com/assets/cms2/img/pokedex/full/807.png)|
-
 Link Legends for the Pokemon types :-
 
 ![Bug](https://vignette.wikia.nocookie.net/pokemon/images/6/64/Type_Bug.gif)
