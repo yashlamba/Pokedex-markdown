@@ -14,3 +14,4 @@
 | 725 | Parasect | Grass/bug |![Parasect](https://img.pokemondb.net/artwork/large/parasect.jpg)|
 | 888 | Zacian | Warrior |![Zaciant](https://assets.pokemon.com/assets/cms2/img/pokedex/full/888.png)| 
 | 889 | Zamazenta | Warrior |![Zamazenta](https://assets.pokemon.com/assets/cms2/img/pokedex/full/889.png)| 
+| 890 | Eternatus | Gigantic |![Eternatus](https://assets.pokemon.com/assets/cms2/img/pokedex/full/890.png)| 
