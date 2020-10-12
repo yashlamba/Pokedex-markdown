@@ -58,7 +58,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+|056|mankey|Fire|![Mankey](https://assets.pokemon.com/assets/cms2/img/pokedex/full/056.png)|
 |||||
 |||||
 |||||
