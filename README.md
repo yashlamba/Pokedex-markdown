@@ -74,7 +74,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 | 162 | Furret | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Furret](https://assets.pokemon.com/assets/cms2/img/pokedex/full/162.png)|
-|||||
+| 225 | Delibird | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Delibird](https://assets.pokemon.com/assets/cms2/img/pokedex/full/225.png)|
 |||||
 |||||
 |||||
