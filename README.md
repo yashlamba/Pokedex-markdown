@@ -8,6 +8,7 @@
 | 011 | Metapod | Bug | ![Metapod](https://img.pokemondb.net/artwork/large/metapod.jpg)|
 | 012 | Butterfree | Bug | ![Butterfree](https://cdn.bulbagarden.net/upload/d/d1/012Butterfree.png)|
 | 069 | Bellsprout | Grass | ![Bellsprout](https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png)
+| 699 | Aurorus | Water |![Aurorus](https://assets.pokemon.com/assets/cms2/img/pokedex/full/699.png)| 
 | 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
 | 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
 | 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
@@ -16,3 +17,4 @@
 | 889 | Zamazenta | Warrior |![Zamazenta](https://assets.pokemon.com/assets/cms2/img/pokedex/full/889.png)| 
 | 890 | Eternatus | Gigantic |![Eternatus](https://assets.pokemon.com/assets/cms2/img/pokedex/full/890.png)| 
 | 891 | Kubfu | Wushu |![Kubfu](https://assets.pokemon.com/assets/cms2/img/pokedex/full/891.png)| 
+
