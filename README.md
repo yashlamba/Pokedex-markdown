@@ -77,7 +77,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+| 226 | Mantine | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Mantine](https://assets.pokemon.com/assets/cms2/img/pokedex/full/226.png)|
 |||||
 |||||
 |||||
