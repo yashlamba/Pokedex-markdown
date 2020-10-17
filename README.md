@@ -12,3 +12,4 @@
 | 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
 | 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
 | 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
+| 834 | Drednaw |![Water](https://www.pokemon.com/us/pokedex/?type=water)|![Drednaw](https://assets.pokemon.com/assets/cms2/img/pokedex/full/834.png)|
