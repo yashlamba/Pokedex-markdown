@@ -12,4 +12,15 @@
 | 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
 | 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
 | 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
+
+
+
+
+
+
+
+| 831 | Wooloo | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Wooloo] (https://assets.pokemon.com/assets/cms2/img/pokedex/full/831.png)]
+| 832 | Dubwool | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Dubwool](https://assets.pokemon.com/assets/cms2/img/pokedex/full/832.png)|
+| 833 | Chewtle |![Water](https://www.pokemon.com/us/pokedex/?type=water)|![Chewtle](https://assets.pokemon.com/assets/cms2/img/pokedex/full/833.png)|
 | 834 | Drednaw |![Water](https://www.pokemon.com/us/pokedex/?type=water)|![Drednaw](https://assets.pokemon.com/assets/cms2/img/pokedex/full/834.png)|
+
