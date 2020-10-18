@@ -17,7 +17,7 @@
 
 
 
-
+| 829 | Gossifleur | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Gossifleur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/829.png)|
 
 | 830 | Eldegoss | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Eldegoss](https://assets.pokemon.com/assets/cms2/img/pokedex/full/830.png)|
 | 831 | Wooloo | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Wooloo] (https://assets.pokemon.com/assets/cms2/img/pokedex/full/831.png)]
