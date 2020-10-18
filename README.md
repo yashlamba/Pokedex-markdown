@@ -14,6 +14,10 @@
 | 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
 
 
+
+
+| 821 | Rookidee |![Flying](https://vignette.wikia.nocookie.net/pokemon/images/4/4b/Type_Flying.gif)|![Rookidee](https://assets.pokemon.com/assets/cms2/img/pokedex/full/821.png)|
+
 | 823 |Corviknight|![Flying](https://vignette.wikia.nocookie.net/pokemon/images/4/4b/Type_Flying.gif)|![Corviknight](https://assets.pokemon.com/assets/cms2/img/pokedex/full/823.png)|
 
 
