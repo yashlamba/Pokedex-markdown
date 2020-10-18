@@ -17,7 +17,7 @@
 
 
 | 821 | Rookidee |![Flying](https://vignette.wikia.nocookie.net/pokemon/images/4/4b/Type_Flying.gif)|![Rookidee](https://assets.pokemon.com/assets/cms2/img/pokedex/full/821.png)|
-
+| 822 | Corvisquire|![Flying](https://vignette.wikia.nocookie.net/pokemon/images/4/4b/Type_Flying.gif)|![Corvisquire](https://assets.pokemon.com/assets/cms2/img/pokedex/full/822.png)|
 | 823 |Corviknight|![Flying](https://vignette.wikia.nocookie.net/pokemon/images/4/4b/Type_Flying.gif)|![Corviknight](https://assets.pokemon.com/assets/cms2/img/pokedex/full/823.png)|
 
 
@@ -25,6 +25,7 @@
 
 
 | 824 | Blipbug | ![Bug](https://vignette.wikia.nocookie.net/pokemon/images/6/64/Type_Bug.gif) | ![Blipbug](https://assets.pokemon.com/assets/cms2/img/pokedex/full/824.png)|
+
 
 | 825 | Dottler | ![Bug](https://vignette.wikia.nocookie.net/pokemon/images/6/64/Type_Bug.gif) | ![Dottler](https://assets.pokemon.com/assets/cms2/img/pokedex/full/825.png)|
 
