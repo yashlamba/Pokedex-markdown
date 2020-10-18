@@ -13,7 +13,7 @@
 | 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
 | 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
 
-
+| 825 | Dottler | ![Bug](https://vignette.wikia.nocookie.net/pokemon/images/6/64/Type_Bug.gif) | ![Dottler](https://assets.pokemon.com/assets/cms2/img/pokedex/full/825.png)|
 
 
 
