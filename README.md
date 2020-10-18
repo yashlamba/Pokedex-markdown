@@ -16,7 +16,7 @@
 
 
 
-
+| 826 | Orbeetle | ![Bug](https://vignette.wikia.nocookie.net/pokemon/images/6/64/Type_Bug.gif) | ![Orbeetle](https://assets.pokemon.com/assets/cms2/img/pokedex/full/826.png)|
 
 
 | 831 | Wooloo | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Wooloo] (https://assets.pokemon.com/assets/cms2/img/pokedex/full/831.png)]
