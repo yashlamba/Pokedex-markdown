@@ -16,11 +16,17 @@
 
 
 
+
 | 826 | Orbeetle | ![Bug](https://vignette.wikia.nocookie.net/pokemon/images/6/64/Type_Bug.gif) | ![Orbeetle](https://assets.pokemon.com/assets/cms2/img/pokedex/full/826.png)|
 
 
+| 829 | Gossifleur | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Gossifleur](https://assets.pokemon.com/assets/cms2/img/pokedex/full/829.png)|
+
+
+| 830 | Eldegoss | ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Eldegoss](https://assets.pokemon.com/assets/cms2/img/pokedex/full/830.png)|
 | 831 | Wooloo | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Wooloo] (https://assets.pokemon.com/assets/cms2/img/pokedex/full/831.png)]
 | 832 | Dubwool | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Dubwool](https://assets.pokemon.com/assets/cms2/img/pokedex/full/832.png)|
 | 833 | Chewtle |![Water](https://www.pokemon.com/us/pokedex/?type=water)|![Chewtle](https://assets.pokemon.com/assets/cms2/img/pokedex/full/833.png)|
 | 834 | Drednaw |![Water](https://www.pokemon.com/us/pokedex/?type=water)|![Drednaw](https://assets.pokemon.com/assets/cms2/img/pokedex/full/834.png)|
+
 
