@@ -13,6 +13,8 @@
 | 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
 | 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
 
+| 779 | Bruxish |![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif)|![Bruxish](https://assets.pokemon.com/assets/cms2/img/pokedex/full/779.png)|
+
 
 
 
