@@ -12,6 +12,7 @@
 | 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
 | 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
 | 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
+| 780 | Drampa | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Drampa](https://assets.pokemon.com/assets/cms2/img/pokedex/full/780.png)|
 
 
 
