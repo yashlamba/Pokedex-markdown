@@ -12,7 +12,22 @@
 | 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
 | 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
 | 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
+
 | 780 | Drampa | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Drampa](https://assets.pokemon.com/assets/cms2/img/pokedex/full/780.png)|
+
+| 781 | Dhelmise| ![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif) | ![Dhelmise](https://assets.pokemon.com/assets/cms2/img/pokedex/full/781.png)|
+
+| 779 | Bruxish |![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif)|![Bruxish](https://assets.pokemon.com/assets/cms2/img/pokedex/full/779.png)|
+
+
+
+
+
+
+
+
+| 775 | Komala | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Komala](https://assets.pokemon.com/assets/cms2/img/pokedex/full/775.png)|
+
 
 
 
