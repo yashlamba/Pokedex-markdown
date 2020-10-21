@@ -9,7 +9,15 @@
 | 011 | Metapod | Bug | ![Metapod](https://img.pokemondb.net/artwork/large/metapod.jpg)|
 | 012 | Butterfree | Bug | ![Butterfree](https://cdn.bulbagarden.net/upload/d/d1/012Butterfree.png)|
 | 069 | Bellsprout | Grass | ![Bellsprout](https://assets.pokemon.com/assets/cms2/img/pokedex/full/069.png)
+
+
+
+
+| 501 | Oshawott |![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif)|![Oshawott](https://assets.pokemon.com/assets/cms2/img/pokedex/full/501.png)|
+
+
 | 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
+
 | 723 | Dartrix | Grass/Flying | ![Dartrix](https://img.pokemondb.net/artwork/large/dartrix.jpg)|
 | 724 | Decidueye | Grass/Ghost | ![Decidueye](https://img.pokemondb.net/artwork/large/decidueye.jpg)|
 
