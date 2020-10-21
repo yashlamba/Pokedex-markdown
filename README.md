@@ -42,11 +42,11 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 037 | Vulpix | ![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif) |![Vulpix](https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png) | 
 | 038 | Ninetales | ![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif) |![Ninetales](https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png) |
 | 039 | Jigglypuff | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif)/![Fairy](https://vignette.wikia.nocookie.net/pokemon/images/7/74/Type_Fairy.gif) |![Jigglypuff](https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png) | 
-|||||
-|||||
-|||||
-|||||
-|||||
+| 040 | Wigglytuff |![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif)/![Fairy](https://vignette.wikia.nocookie.net/pokemon/images/7/74/Type_Fairy.gif) |![Wigglytuff](https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png) |
+| 041 | Zubat |![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif)/![Flying](https://vignette.wikia.nocookie.net/pokemon/images/4/4b/Type_Flying.gif) |![Zubat](https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png) |
+| 042 | Golbat |![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif)/![Flying](https://vignette.wikia.nocookie.net/pokemon/images/4/4b/Type_Flying.gif) |![Golbat](https://assets.pokemon.com/assets/cms2/img/pokedex/full/042.png) |
+| 043 | Oddish |![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif)/![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) |![Oddish](https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png) |
+| 044 | Gloom |![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif)/![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) |![Gloom](https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png)  |
 |||||
 |||||
 |||||
