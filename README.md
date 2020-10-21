@@ -20,6 +20,8 @@
 | 501 | Oshawott |![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif)|![Oshawott](https://assets.pokemon.com/assets/cms2/img/pokedex/full/501.png)|
 | 502 | Dewott |![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif)|![Dewott](https://assets.pokemon.com/assets/cms2/img/pokedex/full/502.png)|
 | 503 | Samurott |![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif)|![Samurott](https://assets.pokemon.com/assets/cms2/img/pokedex/full/503.png)|
+| 504 | Patrat | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif) | ![Patrat](https://assets.pokemon.com/assets/cms2/img/pokedex/full/504.png)|
+
 
 | 722 | Rowlet | Grass/Flying | ![Rowlet](https://img.pokemondb.net/artwork/large/rowlet.jpg)|
 
