@@ -36,12 +36,12 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 031 | Nidoqueen | ![Ground](https://vignette.wikia.nocookie.net/pokemon/images/1/1d/Type_Ground.gif)/![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) | ![Nidoqueen](https://assets.pokemon.com/assets/cms2/img/pokedex/full/031.png) | 
 | 032 | Nidoran | ![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) |![Nidoran](https://assets.pokemon.com/assets/cms2/img/pokedex/full/032.png) |
 | 033 | Nidorino | ![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) |![Nidorino](https://assets.pokemon.com/assets/cms2/img/pokedex/full/033.png) | 
-| 034 | Nidoking |![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif)/![Ground](https://vignette.wikia.nocookie.net/pokemon/images/1/1d/Type_Ground.gif) |![Nidoking](https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png) |
-|||||
-|||||
-|||||
-|||||
-|||||
+| 034 | Nidoking | ![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif)/![Ground](https://vignette.wikia.nocookie.net/pokemon/images/1/1d/Type_Ground.gif) |![Nidoking](https://assets.pokemon.com/assets/cms2/img/pokedex/full/034.png) |
+| 035 | Clefairy | ![Fairy](https://vignette.wikia.nocookie.net/pokemon/images/7/74/Type_Fairy.gif) |![Clefairy](https://assets.pokemon.com/assets/cms2/img/pokedex/full/035.png) | 
+| 036 | Clefable | ![Fairy](https://vignette.wikia.nocookie.net/pokemon/images/7/74/Type_Fairy.gif) |![Clefable](https://assets.pokemon.com/assets/cms2/img/pokedex/full/036.png) | 
+| 037 | Vulpix | ![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif) |![Vulpix](https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png) | 
+| 038 | Ninetales | ![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif) |![Ninetales](https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png) |
+| 039 | Jigglypuff | ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif)/![Fairy](https://vignette.wikia.nocookie.net/pokemon/images/7/74/Type_Fairy.gif) |![Jigglypuff](https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png) | 
 |||||
 |||||
 |||||
