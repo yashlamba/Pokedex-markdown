@@ -80,7 +80,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+| 078 | Rapidash | ![Fire](https://vignette.wikia.nocookie.net/pokemon/images/4/4d/Type_Fire.gif) | ![Rapidash](https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png)|
 |||||
 |||||
 |||||
