@@ -1,14 +1,15 @@
-name: Close Pull Request
+name: Close All Pull Requests
 
 on:
-  pull_request_target:
-    types: [opened]
-    paths: README.md
+  workflow_dispatch:
 
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
-    - uses: superbrothers/close-pull-request@v3
+    - uses: crondaemon/close-pr@v1
       with:
+        # Optional. Post a issue comment just before closing a pull request.
         comment: "Closing for a new session!"
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
