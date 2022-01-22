@@ -107,7 +107,8 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 |||||
 |||||
-|||||
+|105| Hitmonchan | ![Fighting](https://vignette.wikia.nocookie.net/pokemon/images/6/6b/Type_Fighting.gif) |![Hitmonchan]
+(https://assets.pokemon.com/assets/cms2/img/pokedex/full/107.png)| 
 |106| Hitmonlee | ![Fighting](https://vignette.wikia.nocookie.net/pokemon/images/6/6b/Type_Fighting.gif) |![Hitmonlee](https://assets.pokemon.com/assets/cms2/img/pokedex/full/106.png)|
 |||||
 |||||
