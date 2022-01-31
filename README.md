@@ -55,7 +55,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 |||||
 | 051 | Dugtrio| ![Ground](https://vignette.wikia.nocookie.net/pokemon/images/1/1d/Type_Ground.gif)| ![Dugtrio](https://assets.pokemon.com/assets/cms2/img/pokedex/full/051.png)|
 | 052 | Meowth| ![Normal](https://vignette.wikia.nocookie.net/pokemon/images/6/61/Type_Normal.gif)| ![Meowth](https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png)|
-
+|||||
 | 054 | Kabutops|![Rock](https://vignette.wikia.nocookie.net/pokemon/images/b/b3/Type_Rock.gif)/![Water](https://vignette.wikia.nocookie.net/pokemon/images/e/ed/Type_Water.gif) |![Kabutops](https://assets.pokemon.com/assets/cms2/img/pokedex/full/141.png)|
 |||||
 |||||
