@@ -48,7 +48,7 @@ Implemeted for a git session - 21/09/2019 (Better idea would have been to use in
 | 043 | Oddish |![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif)/![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) |![Oddish](https://assets.pokemon.com/assets/cms2/img/pokedex/full/043.png) |
 | 044 | Gloom |![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif)/![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) |![Gloom](https://assets.pokemon.com/assets/cms2/img/pokedex/full/044.png)  |
 |||||
-|||||
+| 046 | Paras |![Grass](https://vignette.wikia.nocookie.net/pokemon/images/4/46/Type_Grass.gif)/![Poisonl](https://vignette.wikia.nocookie.net/pokemon/images/8/82/Type_Poison.gif) |![Paras](https://assets.pokemon.com/assets/cms2/img/pokedex/full/046.png)|
 |||||
 |||||
 |||||
